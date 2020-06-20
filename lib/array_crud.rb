@@ -52,8 +52,8 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-  update_element_from_index = ["coke", "sprite","water"]
-  update_element_from_index[2] = "pepsi"
+  update_element_from_index = ["array", 4,"totally"]
+  update_element_from_index[2] = "totally"
   
   
 
