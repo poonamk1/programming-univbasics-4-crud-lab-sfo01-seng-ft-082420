@@ -45,7 +45,7 @@ end
 
 def retrieve_first_element_from_array(array)
   retrieve_first_element_from_array = ["wow"]
-  
+  retrieve_first_element-from_array [0]
   
 end
 
